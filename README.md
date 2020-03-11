@@ -8,7 +8,7 @@ showing how to use Git and Github together
 This example is to show different parts
 of the Git repository and various commands
 using a web project. 
-Regel voor rebasing
+Regel voor rebasing, and nu meer veranderingen voor de myfeature branch
 
 ## Purpose
 
